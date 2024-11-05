@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozitioli.github.io/KYu/sitemap_index.txt
+Sitemap: https://ozitioli.github.io/cqQ/sitemap_index.txt
+Sitemap: https://ozitioli.github.io/dSQ/sitemap_index.txt
+Sitemap: https://ozitioli.github.io/pbM/sitemap_index.txt
